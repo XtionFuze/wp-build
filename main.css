@@ -1,3 +1,13 @@
 #nav{
     padding:10px;
+    
+}
+.navradius {
+    border-radius: 5px;
+}
+.footer {
+    font-size: 12px;
+}
+body {
+    font-family:sans-serif;
 }
