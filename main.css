@@ -77,3 +77,11 @@ body {
     border-bottom: 0;
   }
 }
+
+.bg {
+  background-color: white;
+  border-radius: 10px
+}
+.bodybg {
+  background-image: url(http://lorempixel.com/1200/500);
+}
